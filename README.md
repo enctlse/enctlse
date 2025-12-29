@@ -1,4 +1,4 @@
-# Hello, I'm Enctlse 👋
+# Hello, I'm enctlse
 
 ## 🛠️ Tech Stack
 - **Languages:** C, C++, Python, Java, x86_64 Assembly
