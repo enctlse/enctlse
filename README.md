@@ -7,8 +7,3 @@
 
 ## 🏗️ Current Project
 **KernixOS** - 64-bit operating system.
-
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=enctlse&show_icons=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=enctlse&layout=compact)
-
