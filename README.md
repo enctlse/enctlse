@@ -6,16 +6,11 @@
 - **Development:** 64-bit Operating Systems
 
 ## 🏗️ Current Project
-**DystopiaOS** - Custom 64-bit operating system with security focus.
+**KernixOSOS** - 64-bit operating system.
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=enctlse&show_icons=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=enctlse&layout=compact)
-
-## 📫 Connect With Me
-- 📧 Email: [your email]
-- 💼 LinkedIn: [your LinkedIn]
-- 📱 Telegram: [@your_username]
 
 ---
 
